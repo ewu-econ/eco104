@@ -10,7 +10,6 @@ output:
 
 <center>
 
-![Image Taken From the Book - An Introduction to Statistical Learning](image_file.png){width=40%}
 </center>
 
 <br>
