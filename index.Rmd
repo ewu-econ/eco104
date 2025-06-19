@@ -1,53 +1,35 @@
 ---
-title: "Welcome to the Course Webpage of ECO 104"
+title: "Thanks for Visiting!"
 output: 
   html_document:
     font: "Source Sans Pro"
 ---
 
 <br>
-
 <br>
 
 <center>
 
-![Outcome of a Coin Toss is Random....](coin_toss.jpg){width=40%}
+![](image_file.png){width=40%}
 </center>
 
 <br>
 <br>
 
-Salam Everyone! Welcome to the course webpage of ECO 104 (Faculty - STH). 
+Salam Everyone! We created this website for the Causality Reading Group at [East West University, Bangladesh](https://www.ewubd.edu/). We are a group of researchers and students at the Economics department interested in causal inference and its applications in various fields. Our goal is to learn, and share knowledge related to causal inference.
 
+Currently the plan is to read and discuss some papers on causal inference. The group is ideally open to anyone who is interested in learning about causal inference, regardless of their background or level of expertise. The only **condition as a member is that you have to read a paper for every session and then present the key ideas in front of the group members.** 
 
-This is the first course in the sequence of two Statistics courses offered for the Economics and Business students at EWU (the next one is ECO 204). The course will cover
-
-- Basic ideas about Statistics and Data Sets.
-- Some Descriptive Statistics (graphical and numerical methods).
-- Introduction to Probability Theory (i.e., defining Probability, Random Variables and Distributions).
-- Ideas about Sampling Distributions.
-- Index numbers.
-
-The approach of the class includes both learning the concepts and also how to apply them in real-life situations. Students will also be introduced to Microsoft Excel for applications related to business and economic data nna 
-
+If you are interested to join the group then please send an email at <a name="tanvir">tanvir.hossain@ewubd.edu</a>. Also if you are in the group, then you should already have access to the Google Drive Folder, here is the  [link](https://drive.google.com/drive/folders/132IX6Tlz3p04S6dmRt8ZiysCKrJBNEh8?usp=sharing)
 
 <br>
 <br>
 
 <center>
 
-![Random variable is a function](RVs_OFs.png){width=40%}
+![](cor_caus.jpg){width=70%}
 </center>
-
-You will get the course outline in PDF soon.... 
-
 
 <br>
 
 
-
-
-
-<div style="text-align: center; padding: 10px; margin-top: 40px; border-top: 1px solid #ccc; color: gray; font-size: 0.9em;">
-  © ECO 104 Summer 2025. All rights reserved. |Site Maintained by - Shaikh Tanvir Hossain and Habiba Afroz
-</div>
