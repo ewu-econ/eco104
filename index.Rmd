@@ -28,7 +28,7 @@ This is the first course in the sequence of two Statistics courses offered for t
 - Ideas about Sampling Distributions.
 - Index numbers.
 
-The approach of the class includes both learning the concepts and also how to apply them in real-life situations. Students will also be introduced to Microsoft Excel for applications related to business and economic data
+The approach of the class includes both learning the concepts and also how to apply them in real-life situations. Students will also be introduced to Microsoft Excel for applications related to business and economic data nna 
 
 
 <br>
