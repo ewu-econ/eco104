@@ -1,0 +1,45 @@
+---
+  title: "Lecture Materials"
+  output: 
+    html_document:
+      toc: true
+      toc_depth: 3
+      toc_float: true
+      self_contained: true
+      df_print: paged
+      mathjax: default
+  bibliography: eco104_books.bib  
+  link-citations: yes
+  linkcolor: blue
+---
+  
+
+
+Here are the slides for the lectures. The slides are in pdf format. You can download them and use them offline.
+
+## *Chapter 1 - Intro and Descrit*
+
+- **Slides:** [Ch1 - Introduction and Descriptive Statistics](slides/01_desc_stats.pdf)
+
+- Key concepts are 
+
+  - Introduction to Statistics (What is Statistics?)
+  - Types of Variables
+    - Qualitative vs Quantitative
+    - Discrete vs Continuous
+    - Scale - Nominal, Ordinal, Interval, Ratio
+  - Population vs Sample
+  - Simple Random Sample and Stratified Random Sample
+
+
+
+
+
+
+
+
+
+
+<div style="text-align: center; padding: 10px; margin-top: 40px; border-top: 1px solid #ccc; color: gray; font-size: 0.9em;">
+  © ECO 104 Summer 2025. All rights reserved. |Site Maintained by - Shaikh Tanvir Hossain and Habiba Afroz
+</div>
