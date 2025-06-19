@@ -1,7 +1,7 @@
-name: "ECO204 @ EWU"
+name: "ECO104 @ EWU"
 output_dir: "."
 navbar:
-  title: "ECO204 @ EWU"
+  title: "ECO104 @ EWU"
   left:
     - text: "Home"
       href: index.html
