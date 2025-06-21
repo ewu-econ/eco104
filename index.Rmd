@@ -42,7 +42,7 @@ You will get the course outline in PDF soon.... please check the webpage frequen
 
 <br>
 <center>
-![Catoon Credit : xkcd.com](prediction.png){width=50%}
+![Catoon Credit : xkcd.com](prediction.png){width=70%}
 
 
 
