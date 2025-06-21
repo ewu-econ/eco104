@@ -10,8 +10,15 @@ output:
 
 <center>
 
-![](image_file.png){width=30%}
-![](image_file2.png){width=35%}
+
+
+<table>
+  <tr>
+    <td><img src="image_file.png" width="250%"></td>
+    <td><img src="image_file2.png" width="250%"></td>
+  </tr>
+</table>
+
 </center>
 
 <br>
