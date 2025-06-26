@@ -34,7 +34,7 @@ Here are the slides for the lectures. The slides are in pdf format. You can down
   - [Soft Drink Data](slides/Ch1/data_sets/SoftDrink.xlsx)
   - [Supply Days Data](slides/Ch1/data_sets/Supply_Days.xlsx)
   
-- **Key concepts are:** What is Statistics? What is data? Different types of data, Different Classifications of Variables (Categorial vs Quantitative, Discrete vs Continuous, Nominal, Ordinal, Interval, Ratio), What is Population and Sample? How to do Sampling? Summary Measures - Mean, Pecentile, Median, Variance and Standard Deviation, Histogram, Scatterplot, Covariance and Correlation, Geometric Mean, and so on.
+- **Key concepts are:** What is Statistics? What is data? Different types of data, Different Classifications of Variables (Categorial vs Quantitative, Discrete vs Continuous, Nominal, Ordinal, Interval, Ratio), What is Population and Sample? How to do Sampling? Tabular and Graphical Measures - Frequency Distribution, Bar Chart, Histogram, Box-Plot, Scatter-Plot, and so on. Numerical Measures - Mean, Pecentile, Median, Variance and Standard Deviation, Covariance and Correlation, Geometric Mean, and so on.
 
 
 <br>
