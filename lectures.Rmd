@@ -19,9 +19,23 @@ Here are the slides for the lectures. The slides are in pdf format. You can down
 
 ## *Chapter 1 - Introduction and Descriptive Statistics*
 
-- **Slides :** [Ch1 - Descriptive Statistics](slides/01_desc_stats.pdf)
+- **Slides :** [Ch1 - Descriptive Statistics](slides/Ch1/01_desc_stats.pdf)
 
-- Key concepts are 
+- **DataSets** Following are the data sets used in Ch1 Slides, most of the data sets are from @anderson_statistics_2020
+
+  - [Audit Data](slides/Ch1/data_sets/Audit.xlsx)
+  - [Boxplot Data](slides/Ch1/data_sets/Boxplot_Data.xlsx)
+  - [Commercials Sales Data](slides/Ch1/data_sets/Commercials_Sales.xlsx)
+  - [Covariance and Correlation Data](slides/Ch1/data_sets/Cov_Corr_Data.xlsx)
+  - [Geometric Mean Data](slides/Ch1/data_sets/GeomMean.xlsx)
+  - [Hand Data](slides/Ch1/data_sets/HandData.xlsx)
+  - [Heights Data](slides/Ch1/data_sets/Heights.xlsx)
+  - [Hypothetical EWU Data](slides/Ch1/data_sets/Hypothetical_EWU_Data.xlsx)
+  - [Restaurant Data](slides/Ch1/data_sets/Restaurant.xlsx)
+  - [Soft Drink Data](slides/Ch1/data_sets/SoftDrink.xlsx)
+  - [Supply Days Data](slides/Ch1/data_sets/Supply_Days.xlsx)
+  
+- **Key concepts are**
 
   - What is Statistics?
   - What is data?
@@ -34,7 +48,11 @@ Here are the slides for the lectures. The slides are in pdf format. You can down
   - How to do Sampling? 
 
 
+<br>
 
+# **References**
+
+<div id="refs"></div>
 
 
 
