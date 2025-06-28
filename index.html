@@ -335,12 +335,7 @@ alt="Catoon Credit : xkcd.com" />
 
 </div>
 
-<!-- Font-Awesome CDN (keep only once in <head>) -->
-<link rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
-      integrity="sha512-fnY+…YOUR_HASH…" crossorigin="anonymous" referrerpolicy="no-referrer">
-
-<!-- Fancy footer -->
+<!-- Fancy footer (unchanged head link tag omitted for brevity) -->
 <footer style="
   --bg1:#fafbff; --bg2:#f0f2ff; --text:#1a1a1a; --accent:#6366f1;
   max-width:100%; padding:1.25rem 0 1.75rem; margin-top:2rem;
@@ -348,27 +343,29 @@ alt="Catoon Credit : xkcd.com" />
   background:linear-gradient(135deg,var(--bg1),var(--bg2));
   box-shadow:0 4px 16px rgba(0,0,0,.08); border-radius:12px;">
   
-  <!-- thin divider -->
   <div style="width:240px;height:1px;background:var(--accent);margin:0 auto 1rem;"></div>
 
-  <!-- main text -->
   <p style="margin:.5rem 0;color:var(--text);line-height:1.55;">
     <i class="fa-solid fa-user-edit" aria-hidden="true"></i>&nbsp;
     Site maintained by
-    <a href="https://sthossain.github.io/" target="_blank" rel="noopener"><strong>Shaikh&nbsp;Tanvir&nbsp;Hossain</strong></a>
+    <a href="https://sthossain.github.io/" target="_blank" rel="noopener">
+      <strong>Shaikh&nbsp;Tanvir&nbsp;Hossain</strong>
+    </a>
     &amp;
-    <strong>Habiba&nbsp;Afroz</strong>.<br>
+    <a href="#" onclick="return false;">
+      <strong>Habiba&nbsp;Afroz</strong>
+    </a>.<br>
 
     <i class="fa-solid fa-circle-exclamation" aria-hidden="true"></i>&nbsp;
-    <strong>Important:</strong> This site is independent of the
-    <a href="https://www.ewubd.edu/" target="_blank" rel="noopener">Official Website of EWU</a>
-    and is shared solely for course content.<br>
+    <strong>Important:</strong> This site is independent from the
+    <a href="https://www.ewubd.edu/" target="_blank" rel="noopener">
+      Official Website of EWU
+    </a> and is shared solely for course content.<br>
 
     <i class="fa-brands fa-r-project" aria-hidden="true"></i>&nbsp;
     Built with <strong>R&nbsp;Markdown</strong> &amp; hosted on <strong>GitHub&nbsp;Pages</strong>.
   </p>
 
-  <!-- appreciation line -->
   <p style="margin:.5rem 0;font-style:italic;color:var(--accent);">
     — big thanks to the R community for their awesome tools and resources!
   </p>
