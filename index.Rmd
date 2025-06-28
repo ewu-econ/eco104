@@ -24,6 +24,7 @@ output:
 <br>
 <br>
 
+
 Assalamualaikum Students! 👋 
 
 A warm welcome to all of you to the course **ECO 104 – Statistics for Business and Econmics - I, Sections 7 & 9 (Summer 2025)**. This is the first course in a sequence of two Statistics courses that you will be taking as part of your undergraduate program in Business and Economics. 📚 
@@ -41,10 +42,14 @@ We’re **Tanvir Hossain** (your instructor) and **Habiba Afroz** (the TA for th
 You will get the course outline in PDF soon.... please check the webpage frequently for updates.
 
 <br>
+
+
+
+<br>
 <center>
 ![Catoon Credit : xkcd.com](prediction.png){width=70%}
 
-
+<div style="height:2cm;"></div>
 
 
 
