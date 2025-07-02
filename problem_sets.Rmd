@@ -18,7 +18,7 @@ Pleas submit the problem set in **PDF** format within the **specified deadline**
 ## Problem Set 1
 
 - **Deadline**: 9th June, 2025
-- [PS1 Question](problem_sets/PS1/Problem_Set_1.pdf)
+- [PS1 Question](problem_sets/PS1/Problem_Set_1_ECO104-1.pdf)
     - [Question-1 Data File](problem_sets/PS1/DataFiles/question-1.xlsx)
     - [Question-2 Data File](problem_sets/PS1/DataFiles/question-2.xlsx)
     - [Question-3 Data File](problem_sets/PS1/DataFiles/question-3.xlsx)
