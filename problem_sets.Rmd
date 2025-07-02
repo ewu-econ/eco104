@@ -17,8 +17,15 @@ Pleas submit the problem set in **PDF** format within the **specified deadline**
 
 ## Problem Set 1
 
-- **Deadline**: 
-- [PS1 Question]() 
+- **Deadline**: 9th June, 2025
+- [PS1 Question](problem_sets/PS1/Problem_Set_1.pdf)
+    - [Question-1 Data File](problem_sets/PS1/DataFiles/question-1.xlsx)
+    - [Question-2 Data File](problem_sets/PS1/DataFiles/question-2.xlsx)
+    - [Question-3 Data File](problem_sets/PS1/DataFiles/question-3.xlsx)
+    - [Question-4 Data File](problem_sets/PS1/DataFiles/question-4.xlsx)
+    - [Question-6 Data File](problem_sets/PS1/DataFiles/question-6.xlsx)
+    - [Question-7 Data File](problem_sets/PS1/DataFiles/question-7.xlsx)
+    
 - [PS1 Solution]()
 
 ## Problem Set 2
