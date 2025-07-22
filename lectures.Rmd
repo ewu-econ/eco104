@@ -39,7 +39,7 @@ Here are the slides for the lectures. The slides are in pdf format. You can down
 
 # Chapter 2
 
-- **Slides :** [Ch2 - Probability](slides/Ch2/02_prob_theory_1.pdf) 
+- **Slides :** [Ch2 - Probability Theory 1 - Definitions](slides/Ch2/02_prob_theory_1.pdf) 
 - **Recap Slides :** [Ch0 - Math Recap](slides/Ch2/00_math_recap_1.pdf)
 
 
@@ -47,9 +47,11 @@ Here are the slides for the lectures. The slides are in pdf format. You can down
 
 - **Note:** The math recap slides are only to brush up your old math knowledge. You can skip them if you are comfortable with basic math concepts like set theory, functions, permutations, combinations, and so on.
 
+# Chapter 3
 
+- **Slides :** [Ch3 - Probability Theory 2 - Random Variables](slides/Ch3/03_prob_theory_2.pdf)
 
-
+- **Key concepts are:** Random Variables, Discrete and Continuous Random Variables, Probability Distribution, Probability Mass Function (PMF), Cumulative Distribution Function (CDF), Probability Density Function (PDF), Expected Value, Variance, LOTUS, Linearity of Expectation. Some Parametric Distributions - Binomial, Poisson, Uniform, Normal, Exponential, and so on.
 
 <br>
 
