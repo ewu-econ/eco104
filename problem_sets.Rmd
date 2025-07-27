@@ -26,9 +26,16 @@ Pleas submit the problem set in **PDF** format within the **specified deadline**
     - [Question-6 Data File](problem_sets/ps1/DataFiles/question-6.xlsx)
     - [Question-7 Data File](problem_sets/ps1/DataFiles/question-7.xlsx)
     
-- [PS1 Solution]()
+- [PS1 Solution]() : We haven't provided the solution to the problem set. 
+## Problem Set 2
 
 ## Problem Set 2
+
+- **Deadline**: 3rd Aug (Sec 9) and 4th Aug (Sec 7), In class hard copy submission
+
+- [PS2 Question](problem_sets/ps2/PS_2.pdf)
+
+- [PS2 Solution]() : The solution will be provided after the deadline, so please 
 
 <div style="height:10cm;"></div>
 
