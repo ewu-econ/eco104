@@ -27,7 +27,6 @@ Pleas submit the problem set in **PDF** format within the **specified deadline**
     - [Question-7 Data File](problem_sets/ps1/DataFiles/question-7.xlsx)
     
 - [PS1 Solution]() : We haven't provided the solution to the problem set. 
-## Problem Set 2
 
 ## Problem Set 2
 
@@ -36,6 +35,12 @@ Pleas submit the problem set in **PDF** format within the **specified deadline**
 - [PS2 Question](problem_sets/ps2/PS_2.pdf)
 
 - [PS2 Solution]() : The solution will be provided after the deadline, so please 
+
+
+## Problem Set 3
+
+- [PS3 With Solution](problem_sets/ps3/PS_3_soln.pdf): You don't need to submit, but please solve it before Mid - 2 
+
 
 <div style="height:10cm;"></div>
 
