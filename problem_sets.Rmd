@@ -42,5 +42,14 @@ Pleas submit the problem set in **PDF** format within the **specified deadline**
 - [PS3 With Solution](problem_sets/ps3/PS_3_soln.pdf): You don't need to submit, but please solve it before Mid - 2 
 
 
+
+## Problem Set 4
+
+- [PS4 Question](problem_sets/ps4/PS_4.pdf)
+
+- **Deadline**: 28th Aug, In class hard copy submission
+
+
+
 <div style="height:10cm;"></div>
 
