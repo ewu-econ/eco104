@@ -62,8 +62,13 @@ Here are the slides for the lectures. The slides are in pdf format. You can down
 
 <br>
 
+# Chapter 5
 
+- **Slides :** There are no slides here but you should look at the Lecture Notes and Read @newbold_statistics_2020 and @anderson_statistics_2020
 
+- **Lecture Notes :** [Ch5 - Sampling Distributions and Central Limit Theorem](slides/Ch4/Notes_Ch5_SamplingDist.pdf)
+
+- **Key concepts are:** Sampling Distribution of Sample Means, Sample Proportions, Sampling Distribution Under Normality and Central Limit Theorem (CLT), and so on.
 
 # **References**
 
